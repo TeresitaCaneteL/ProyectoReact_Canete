@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ProyectoReact_Canete/static/css/main.073c9b0a.css",
-    "main.js": "/ProyectoReact_Canete/static/js/main.c194412b.js",
+    "main.css": "/ProyectoReact_Canete/static/css/main.1c06d6f8.css",
+    "main.js": "/ProyectoReact_Canete/static/js/main.64634781.js",
     "static/js/787.7f320c1d.chunk.js": "/ProyectoReact_Canete/static/js/787.7f320c1d.chunk.js",
-    "static/media/logo.svg": "/ProyectoReact_Canete/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ProyectoReact_Canete/index.html",
-    "main.073c9b0a.css.map": "/ProyectoReact_Canete/static/css/main.073c9b0a.css.map",
-    "main.c194412b.js.map": "/ProyectoReact_Canete/static/js/main.c194412b.js.map",
+    "main.1c06d6f8.css.map": "/ProyectoReact_Canete/static/css/main.1c06d6f8.css.map",
+    "main.64634781.js.map": "/ProyectoReact_Canete/static/js/main.64634781.js.map",
     "787.7f320c1d.chunk.js.map": "/ProyectoReact_Canete/static/js/787.7f320c1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c194412b.js"
+    "static/css/main.1c06d6f8.css",
+    "static/js/main.64634781.js"
   ]
 }
